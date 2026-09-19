@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "8d6fd02759f5ddfa5f87e4fd",
+  "owner": "pvrfktq",
+  "repo": "page-f542d30f96b33e022d98a3e6",
+  "title": "麦当当",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f542d30f96b33e022d98a3e6",
+      "a": "麦当当",
+      "b": "clash verge免费节点订阅",
+      "entity": "麦当当",
+      "brand": "麦当当",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f0633a56bc933a14a7f63898b21b8ac1a1fda3d3f4647661ebf33b3c52e8c624",
+      "content": {
+        "primary_entity": "麦当当",
+        "keyword1": "麦当当",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，依客户端文档配置订阅。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "依据设备与流量需求选择套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，覆盖多平台客户端配置，按设备与流量需求灵活选择套餐，订阅导入后即可在不同终端上使用。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "根据月度流量预估选择基础版、旗舰版或团队版。",
+          "AI_FEATURE_TEXT_2": "核对同时在线设备数，避免多终端频繁切换。",
+          "AI_FEATURE_TEXT_3": "考虑订阅周期，年付方案整体成本更低。",
+          "AI_FEATURE_TITLE_1": "套餐对比",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置的简要步骤。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "麦当当提供多平台客户端配置方案，覆盖日常浏览、流媒体与游戏加速场景，按设备数量与流量需求选择合适套餐。",
+          "AI_HERO_SUBTITLE": "麦当当多设备订阅服务",
+          "AI_HIGHLIGHT_1": "多档套餐，按流量选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "客户端配置步骤清晰",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、旗舰版月付 ¥35、团队版月付 ¥85，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用场景与流量需求，比较基础版、旗舰版与团队版。",
+          "AI_STEP_TEXT_2": "查看设备数与适配说明，确认符合终端配置要求。",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "麦当当多端订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。按需要同时在线的设备数量选择即可。",
+          "AI_FAQ_ANSWER_2": "套餐按周期提供固定流量：基础版 100GB、旗舰版 300GB、团队版 1000GB。超出后的处理方式请以账号内提示为准。",
+          "AI_FAQ_ANSWER_3": "订阅链接一般通过客户端从购买后提供的入口导入，具体步骤参见对应客户端的配置文档。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算：基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，分别相当于月付的约 10 个月价格。",
+          "AI_FAQ_ANSWER_5": "可以在账号内更换套餐，补差价后立即生效。具体操作可联系支持渠道确认。",
+          "AI_FAQ_INTRO": "订阅、设备、套餐与付费周期。",
+          "AI_FAQ_QUESTION_1": "同时可以在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "套餐流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "套餐可以随时更换吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a83b1a6eebeeb861015e8cdb9a76be448b72105f20736ce94a09a4fa5a756bc1",
+    "sitemap.xml": "6dc51eb5ea6724b881555927aa8ab95c2ef24505ef4362435d6c6249cba0b024",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fc9ad30c146c8dbc6730865167e2fcbedfcf41fd48cbbe1483c8d46e361a98f9"
+}
